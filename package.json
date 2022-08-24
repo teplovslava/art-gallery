@@ -1,0 +1,16 @@
+{
+  "name": "art-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://teplovslava.github.io/art-gallery",
+  "scripts": {
+    "deply":""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
