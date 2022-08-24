@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://teplovslava.github.io/art-gallery",
   "scripts": {
-    "deply":""
+    "deploy":"gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
